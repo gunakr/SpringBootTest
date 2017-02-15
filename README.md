@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spring Music
 ============
 
@@ -96,3 +97,8 @@ $ cf restart
 #### Database drivers
 
 Database drivers for MySQL, Postgres, Microsoft SQL Server, MongoDB, and Redis are included in the project. To connect to an Oracle database, you will need to download the appropriate driver (e.g. from http://www.oracle.com/technetwork/database/enterprise-edition/jdbc-112010-090769.html?ssSourceSiteId=otnjp), add the driver .jar file to the `src/main/webapp/WEB-INF/lib` directory in the project, and re-build the application .war file using `./gradlew assemble`.
+=======
+# SpringBootTest
+
+Clone from Spring music app for our exploration
+>>>>>>> 4bff969391e35727c979890dbecf8ca2ed591688
